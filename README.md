@@ -51,14 +51,10 @@
 <ul style="font-family: 'Outfit', sans-serif; color: hsl(30, 10%, 34%);">
   <li><strong>JavaScript Enhancements:</strong> Add interactivity, such as allowing users to customize the recipe or calculate nutritional values for different ingredients.</li>
   <li><strong>Accessibility:</strong> Improve accessibility with ARIA labels, better focus states, and screen reader support.</li>
-  <li><strong>SEO Optimization:</strong> Add meta tags and optimize for search engines to improve discoverability.</li>
+  <li><strong>SEO Optimization:</strong> Add meta tags and optimize for search engines to improve discoverability.
+  </li>
 </ul>
 
-<!-- License Section -->
-<h2 style="font-family: 'Outfit', sans-serif; color: hsl(24, 5%, 18%);">📄 License</h2>
-<p style="font-family: 'Outfit', sans-serif; color: hsl(30, 10%, 34%);">
-  This project is open-source and available under the <strong>MIT License</strong>. Feel free to use and modify it for your own purposes.
-</p>
 
 <!-- Footer with Author's Name -->
 <p align="center" style="font-family: 'Outfit', sans-serif; color: hsl(14, 45%, 36%);">

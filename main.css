@@ -158,7 +158,7 @@ hr{
     p, ul, ol {
         margin-left: 0;
         font-size: 14px; /* Slightly smaller font for better readability on mobile */
-        padding-left: 10px; /* Less padding on mobile */
+        padding-left: 20px; /* Less padding on mobile */
     }
 
     .prep {
@@ -171,14 +171,17 @@ hr{
     }
 
     .thing, .price {
-        width: 100%; /* Stack vertically on mobile */
-        text-align: center;
+        width: 50%; /* Stack vertically on mobile */
+        margin-left: auto;
+        margin-right: auto;
         font-size: 14px; /* Adjust font size for mobile */
     }
 
     .item p {
-        display: block;
-        text-align: center; /* Align content in the center for mobile */
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
         margin-bottom: 10px; /* Add space between items */
     }
+    
 }
